@@ -170,8 +170,7 @@ DEVELOPMENT SETUP
 CONTACT & COLLABORATION
 -----------------------
 For inquiries about this project or access requests:
-Email: [Add contact email]
-GitHub: [Add GitHub profile link]
-Project Discussions: [Add discussions link]
+Email: aethra.tech.hq@email.com
+GitHub: www.github.com/Aethra-Tech
 
 ===============================================
